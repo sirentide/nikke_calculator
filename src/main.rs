@@ -3,9 +3,6 @@ use yew::prelude::*; // Includes function_component, html, Callback, etc.
 use yew::events::InputEvent;
 use web_sys::HtmlInputElement;
 
-
-
-
 #[allow(non_snake_case)]
 #[allow(dead_code)]
 #[derive(Debug, Clone)] // Clone needed for Yew state
